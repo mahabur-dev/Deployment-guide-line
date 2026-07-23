@@ -89,6 +89,12 @@ pm2 start npm --name "app-name" -- start
 
 ```
 
+## With port
+```bash
+PORT=your port pm2 start npm --name "jolynn-fred-backend" -- start
+
+```
+
 ## Step-13
 Save the pm2 process 
 ```bash
