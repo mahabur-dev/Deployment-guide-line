@@ -91,7 +91,7 @@ pm2 start npm --name "app-name" -- start
 
 ## With port
 ```bash
-PORT=your port pm2 start npm --name "jolynn-fred-backend" -- start
+PORT=your port pm2 start npm --name "app name " -- start
 
 ```
 
