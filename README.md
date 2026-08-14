@@ -7,6 +7,18 @@ Here is a brief instruction of hosting a MERN application in a VPS. Basically I 
 sudo ss -tulnp
 ```
 
+## Check server free space 
+
+```bash
+free -h
+```
+
+## Virus check command 
+
+```bash
+htop
+```
+
 ## Step-1
 Connect with the VPS using ssh. In this step you need to connect the remote server with the local terminal or other cli tool.
 
