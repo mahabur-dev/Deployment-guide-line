@@ -2,6 +2,11 @@
 # Deployment Guide
 Here is a brief instruction of hosting a MERN application in a VPS. Basically I am going to share the steps of hosting any MERN application. 
 
+## Available port check
+```bash
+sudo ss -tulnp
+```
+
 ## Step-1
 Connect with the VPS using ssh. In this step you need to connect the remote server with the local terminal or other cli tool.
 
